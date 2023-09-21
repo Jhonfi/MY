@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    padding: 15px;
+}
+header > h1{
+    padding: 100px 10px 10px 10px;
+    background-color: plum;
+    width: 30%;
+    font: normal bold 25px 'verdana';
+    color: white;
+}
+header > nav > ul{
+    list-style-type: none;
+    display: flex;
+}
+header > nav > ul > li {
+    margin: 10px 20px 10px 10px;
+}
